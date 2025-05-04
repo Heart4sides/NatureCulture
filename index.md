@@ -2,6 +2,6 @@
 share: "true"
 ---
 
-[[./Guardian|Guardian]]
+[Guardian](./Guardian.md)
 
 hello

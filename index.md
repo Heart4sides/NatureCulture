@@ -2,4 +2,6 @@
 share: "true"
 ---
 
-[[Guardian|Guardian]]
+[[./Guardian|Guardian]]
+
+hello
